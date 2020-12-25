@@ -6,5 +6,7 @@
     <color name="red_light">#FF0000</color>
     <color name="transparent">#00000000</color>
     <color name="white">#FFFFFF</color>
+    <color name="Trang">#fff</color>
+    <color name="colorCAM">#FF8908</color>
     <color name="colorBlack">#000000</color>
 </resources>
