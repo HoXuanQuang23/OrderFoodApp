@@ -1,6 +1,24 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">OrderFoodApp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hint_search">Vui lòng nhập món ăn cần tìm</string>
+    <string name="m_n_n_quanh_y">Món ăn quanh đây</string>
+    <string name="xem_t_t_c">xem tất cả</string>
+    <string name="m_n_n_s_ng">Món ăn sáng</string>
+
+    <string name="m_n_n_tr_a">Món ăn trưa</string>
+    <string name="m_n_n_th_nh_h_nh">Món Ăn Thịnh Hành</string>
+
+    <string name="m_n_n_t_i">Món ăn tối</string>
+
+    <string name="g_r_n">Gà rán</string>
+    <string name="m_ph">Mì phở</string>
+
+    <string name="tr_s_a">Trà sữa</string>
+    <string name="b_nh_m">Bánh mì</string>
+    <string name="n_ng">Đồ nướng</string>
+    <string name="t_n_m_n_n">Tên món ăn</string>
+    <string name="s_gi_th">Số giờ th</string>
+
 </resources>

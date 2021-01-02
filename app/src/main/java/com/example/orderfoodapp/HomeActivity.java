@@ -34,6 +34,10 @@ public class HomeActivity extends AppCompatActivity {
 //                        case R.id.nav_user:
 //                            selectedFragment = new Account_User_FragmentActivity();
 //                            break;
+//                        case R.id.nav_heart
+//                            selectedFragment = new Heart();
+////                            break;
+
                     }
                     getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, selectedFragment).commit();
                     return true;

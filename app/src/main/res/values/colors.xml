@@ -9,4 +9,10 @@
     <color name="Trang">#fff</color>
     <color name="colorCAM">#FF8908</color>
     <color name="colorBlack">#000000</color>
+    <color name="black">#121212</color>
+    <color name="blue">#2699FB</color>
+    <color name="main">#66FC00</color>
+    <color name="a6gray">#A6A6A6</color>
+    <color name="br">#E8EAEE</color>
+
 </resources>
